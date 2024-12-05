@@ -37,6 +37,16 @@
 .navbar-toggler {
     border-color: #fd7e14;
 }
+
 .navbar-toggler-icon {
     color: #fd7e14;
+}
+
+.carousel {
+   max-height: 600px;
+}
+
+.carousel-inner img {
+    max-height: 600px;
+    object-fit: cover;
 }
