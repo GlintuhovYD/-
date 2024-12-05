@@ -1,0 +1,42 @@
+.card:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 10);
+    transform: translateY(-5px);
+    transition: all 0.5s ease;
+
+}
+
+.card:hover img {
+    opacity: 0.85;
+    transition: opacity 1 ease;
+}
+
+.card-title {
+    color: #fd7e14;
+}
+
+.card-text {
+    text-align: justify
+}
+
+.custom-input {
+    background-color: #17191d;
+    border: 2px solid #040405;
+    color: #f8f9fa;
+}
+
+.accent {
+    color: #fd7e14;
+}
+
+.footer-bottom {
+    background-color: #17191d;
+    border: 2px solid #040405;
+
+}
+
+.navbar-toggler {
+    border-color: #fd7e14;
+}
+.navbar-toggler-icon {
+    color: #fd7e14;
+}
